@@ -1,1 +1,36 @@
-An Excel road accident dashboard offers a user-friendly interface for visualizing and analyzing road accident data. It includes dynamic charts and tables that display key metrics like the number of accidents, severity levels, and accident hotspots. Users can filter data by date, location, and type of incident, allowing for in-depth insights into trends and patterns. The dashboard's interactive elements, such as slicers and pivot tables, facilitate quick data exploration and support informed decision-making for traffic safety improvements.
+# Road Accident Dashboard
+
+## Overview
+
+The Road Accident Dashboard is an interactive Excel tool designed to visualize and analyze road accident data. It provides insights into accident trends, locations, and severity levels, helping users make informed decisions to improve road safety.
+
+## Features
+
+- **Dynamic Charts and Graphs:** Visualize key metrics such as total accidents, accident types, and severity levels.
+- **Interactive Filtering:** Use slicers to filter data by date, location, and accident type for customized views.
+- **Heat Maps:** Identify accident hotspots to target safety initiatives effectively.
+- **Pivot Tables:** Summarize data and analyze trends over different time periods.
+
+## Getting Started
+
+### Prerequisites
+
+- Microsoft Excel (2016 or later recommended)
+
+### Installation
+
+1. Download the Excel file from the repository.
+2. Open the file in Microsoft Excel.
+
+### Usage
+
+1. Navigate to the **Dashboard** sheet to view the visualizations.
+2. Use the slicers on the dashboard to filter data according to your preferences.
+3. Explore the detailed tables to gain insights into specific accident cases.
+
+## Data Sources
+
+The dashboard is populated with data from [this Google Sheets dataset](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true). Ensure that the data is updated regularly for accurate analysis.
+
+
+
