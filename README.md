@@ -8,7 +8,6 @@ The Road Accident Dashboard is an interactive Excel tool designed to visualize a
 
 - **Dynamic Charts and Graphs:** Visualize key metrics such as total accidents, accident types, and severity levels.
 - **Interactive Filtering:** Use slicers to filter data by date, location, and accident type for customized views.
-- **Heat Maps:** Identify accident hotspots to target safety initiatives effectively.
 - **Pivot Tables:** Summarize data and analyze trends over different time periods.
 
 ## Getting Started
